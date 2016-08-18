@@ -11,8 +11,11 @@ color:
     - '#0057C9'
     - '#3FA3DA'
 layout_spectrum: 0.12032449594698846
-name: memetec
-description: technology -- evolved
+author:
+  name: Paul Hannah
+  email: paul@memetec.com
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/aa17e6f6-23b7-4f5d-a1a3-cb38e4eb6c28.png
+name: memetec
 title: 'technology, evolved'
+description: technology -- evolved
