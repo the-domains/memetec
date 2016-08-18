@@ -1,0 +1,14 @@
+layout_spectrum: 0.29471898078918457
+typography_spectrum: 0.7306525371968746
+color:
+  brandStrength: 0.7340253875590861
+  lightness: 0.6546000535599887
+  saturation: 0.40179719659499824
+  rhythmicContrast: 0.5337324638385326
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+name: memetec
