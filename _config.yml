@@ -6,9 +6,9 @@ color:
   saturation: 0.40179719659499824
   rhythmicContrast: 0.5337324638385326
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
+    - '#F5871F'
+    - '#C8CBCD'
+    - '#CA1C24'
+    - '#0057C9'
+    - '#3FA3DA'
 name: memetec
