@@ -17,5 +17,9 @@ author:
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/aa17e6f6-23b7-4f5d-a1a3-cb38e4eb6c28.png
 name: memetec
+navigation:
+  - name: About
+    id: 5437d35b-78c4-48c7-b8f7-d99af7390dec
+    type: content
 title: 'technology, evolved'
 description: technology -- evolved
