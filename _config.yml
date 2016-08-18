@@ -1,15 +1,15 @@
-typography_spectrum: 0.7306525371968746
+typography_spectrum: 0.48246838385239244
 color:
-  brandStrength: 0.7340253875590861
-  lightness: 0.6546000535599887
-  saturation: 0.40179719659499824
-  rhythmicContrast: 0.5337324638385326
+  brandStrength: 0.9248656630516052
+  lightness: 0.18659388599917293
+  saturation: 0.3724855459295213
+  rhythmicContrast: 0.9071969680953771
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-layout_spectrum: 0.29471898078918457
+    - '#F5871F'
+    - '#C8CBCD'
+    - '#CA1C24'
+    - '#0057C9'
+    - '#3FA3DA'
+layout_spectrum: 0.12032449594698846
 name: memetec
 description: technology -- evolved
